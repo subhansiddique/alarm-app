@@ -120,5 +120,5 @@ const Alarm = () => {
 };
 
 export default Alarm;
-
+// Thanks 
 
